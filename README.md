@@ -10,6 +10,9 @@ This is a simple weather forecast application written in Python that retrieves w
 1. Sign up on OpenWeatherMap (https://openweathermap.org/) to obtain an API key.
 2. Save your API key in a file called 'api_key' (without any extension) in the same directory as the Python script.
 
+##  Requirements
+- See: [REQUIREMENTS.TXT](requirements.txt)
+
 ## Usage:
 1. Run the Python script: `python weather_forecast.py`.
 2. Enter the name of the city for which you want to retrieve the weather forecast.
