@@ -2,7 +2,7 @@
 This is a simple weather forecast application written in Python that retrieves weather data using the OpenWeatherMap API. The application allows users to get weather information for different cities by making API requests and displaying the results.
 
 ## Getting Started:
-1. Clone the repository: `git clone https://github.com/your_username/your_repository.git`
+1. Clone the repository: `git clone https://github.com/sayampradhan/your_repository.git`
 2. Ensure you have Python installed (version 3.x).
 3. Install the requests library: `pip install requests`.
 
