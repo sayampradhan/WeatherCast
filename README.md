@@ -14,7 +14,7 @@ This is a simple weather forecast application written in Python that retrieves w
 - See: [REQUIREMENTS.TXT](requirements.txt)
 
 ## Usage:
-1. Run the Python script: `python weather_forecast.py`.
+1. Run the Python script: `python main.py`.
 2. Enter the name of the city for which you want to retrieve the weather forecast.
 3. The application will display the temperature, feels like temperature, humidity, wind speed, general weather description, sunrise time, and sunset time for the specified city.
 4. You can choose to continue or exit the application after viewing the weather information.
