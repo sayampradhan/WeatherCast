@@ -27,4 +27,5 @@ This project is licensed under the MIT License (LICENSE).
 
 ## Disclaimer:
 Please note that this application relies on the OpenWeatherMap API for weather data. The accuracy and availability of the data depend on the API service. Make sure to comply with the terms and conditions of the OpenWeatherMap API when using this application.
-
+______________
+<b>Feel Free</b> to contribute to this documentation.
